@@ -1,0 +1,103 @@
+Dragonfly Cases:
+________________________________________
+
+Requirement 4 Demo:
+
+Function 1 - NumNamesFemaleYear: 
+
+Case: NEW BRUNSWICK (5) 
+FEMALE NAMES (1) 
+FUNCTION 1 (1) 
+ENTER YEAR (2004) 
+NEW BRUNSWICK (5) 
+ENTER A YEAR (2004)  
+NO GRAPH (4)
+
+Function 2 - topXinY:
+
+Case: BRITISH COLUMBIA (1) 
+MALE NAMES (2)
+ANY INCORRECT INPUT (9)
+FUNCTION 2 (2)
+INCORRECT INPUT (a)
+TOP 10 (10)
+ENTER A YEAR (1950)
+NO GRAPH (4)
+
+Function 3 - compareTopTen:
+
+Case: SASKATCHEWAN (3)
+BOTH NAMES (3)
+ALBERTA (2) 
+BOTH GENDERS (3)
+FUNCTION 3 (3)
+ENTER A YEAR (2016)
+EXIT (11)
+
+Function 5 - mostPopularName:
+
+Case: QUEBEC (4)
+BACK TO MENU (4)
+NOVA SCOTIA (6)
+BOTH GENDERS (3)
+FUNCTION 5 (5)
+EXIT (11) 
+
+JOHN
+________________________________________
+
+Requirement 5 Graphing:
+
+
+Function 4 - observeName:
+Case: BRITISH COLUMBIA (1)
+FEMALE NAMES (1)
+FUNCTION 4 (4)
+ENTER NUMBER INPUTS (2)
+ENTER NAME (MaRy)
+LINE GRAPH (1)
+EXIT (11)
+
+Function 7- observeLetter
+Case: SOUTH AUSTRALIA (10)
+MALE NAMES (2)
+FUNCTION 7 (7)
+INPUT TWO LETTERS (ZZ)
+INPUT LETTER (z)
+BAR GRAPH (2)
+
+________________________________________
+
+Requirement 6 Origin:
+
+Function 6 - Origin:
+Case: CALIFORNIA (8)
+FEMALE NAMES (1)
+FUNCTION 6 (6)
+ENTER NAME (DAViD)
+SHOW PIE GRAPH (y)
+
+________________________________________
+
+User Stories:
+
+Story #1:
+Case: ENGLAND (9)
+MALE NAMES (2)
+FUNCTION 4 (4)
+ENTER NAME (LEVI)
+SHOW LINE GRAPH (1)
+
+Story #2:
+Case: QUEBEC (4)
+BOTH GENDERS (3)
+FUNCTION 7 (7)
+ENTER LETTER (U)
+BACK TO MENU (4)
+EXIT (11)
+
+
+
+
+
+
